@@ -7,6 +7,8 @@ Run MiniBrowser terminal command enter:
 
 /usr/lib/x86_64-linux-gnu/webkit2gtk-4.0/MiniBrowser
 
+Activate flag canvas-gui (Enable accelerated 2D canvas)
+
 Run jsc terminal command enter:
 
 /usr/lib/x86_64-linux-gnu/webkit2gtk-4.0/jsc
