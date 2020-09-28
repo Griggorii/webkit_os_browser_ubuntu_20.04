@@ -11,7 +11,7 @@ Run jsc terminal command enter:
 
 /usr/lib/x86_64-linux-gnu/webkit2gtk-4.0/jsc
 
-full package MiniBrowser download https://yadi.sk/d/P9i6EZHEXBo6hw
+full package MiniBrowser download https://yadi.sk/d/P9i6EZHEXBo6hw full install reboot
 
 jsc help https://trac.webkit.org/wiki/JSC
 
