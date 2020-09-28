@@ -1,8 +1,8 @@
-                                                                 Griggorii@gmail.com
+                                                      Griggorii@gmail.com
 
-                             Compile modification https://github.com/Griggorii
+                Compile modification https://github.com/Griggorii/webkit_os_browser_ubuntu_20.04_jsc/edit/master/webkit2gtk-2.28.4-dev
                           
-                                           Ubuntu 19.04 / 20.04 /20.10
+                                                   Ubuntu 19.04 / 20.04 /20.10
 
    
 
