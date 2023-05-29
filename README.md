@@ -1,7 +1,7 @@
 # webkit_os_browser_ubuntu_20.04
 webkit2gtk-4.0 , WebKitStorageProcess jsc <<---griggorii_mit_patent
 
-sudo tar xvpf webkit_os_browser_ubuntu_20.04.tar.xz -C /
+Download https://github.com/Griggorii/webkit_os_browser_ubuntu_20.04_jsc/releases/tag/webkit
 
 Run MiniBrowser terminal command enter:
 
@@ -10,8 +10,6 @@ Run MiniBrowser terminal command enter:
 Run jsc terminal command enter:
 
 /usr/lib/x86_64-linux-gnu/webkit2gtk-4.0/jsc
-
-full package MiniBrowser download https://yadi.sk/d/P9i6EZHEXBo6hw full install reboot test developer gui https://godbolt.org/
 
 jsc help https://trac.webkit.org/wiki/JSC
 
